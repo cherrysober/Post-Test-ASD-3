@@ -90,7 +90,7 @@ class LinkedList:
             print("[1]. Tampil Keranjang")
             print("[2]. Insert Keranjang")
             print("[3]. Delete Keranjang")
-            print("[4]. Banyak Isi Keranjang")
+            print("[4]. Mencari Isi Keranjang")
             print("[5]. Riwayat Isi Keranjang")
             print("[6]. Log Out")
             x = input("Pilih menu (1/2/3/4/5/6): ")
